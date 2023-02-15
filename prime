@@ -10,7 +10,7 @@ if(num%2===0)
 count false;
 }
 }
-if(count==0)
+if(count==2)
 {
 console.log("prime number");
 }
